@@ -7,7 +7,7 @@ export const APP_INFO: AppInfo = {
   description: 'This is the frontend of DROMs amazing AI-enabled APP!!1!',
   copyright: '2024',
   privacy_policy: '',
-  default_language: 'zh-Hans',
+  default_language: 'en-US',
 }
 
 export const API_PREFIX = '/api'
